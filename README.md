@@ -1,11 +1,11 @@
-Open Data Savannah
-# Code of Conduct
+# Open Data Savannah
+## Code of Conduct
 =============
-## Open Data Savannah
+### Open Data Savannah
 #### Savannah's Bridgade of Code for America
 #### Forked from CFA Code of Conduct
 
-The Code for America community expects that Code for America network activities, events, and digital forums:
+The OpenDataSAV community expects that OpenDataSAV network activities, events, and digital forums:
 
 1. Are a safe and respectful environment for all participants.
 2. Are a place where people are free to fully express their identities.
