@@ -1,7 +1,9 @@
-codeofconduct
+Open Data Savannah
+# Code of Conduct
 =============
-
-####Code for America's Code of Conduct
+## Open Data Savannah
+#### Savannah's Bridgade of Code for America
+#### Forked from CFA Code of Conduct
 
 The Code for America community expects that Code for America network activities, events, and digital forums:
 
@@ -18,9 +20,9 @@ The Code for America community expects that Code for America network activities,
 11. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
 12. Provide an environment where people are free from discrimination or harassment.
 
-Code for America reserves the right to ask anyone in violation of these policies not to participate in Code for America network activities, events, and digital forums.
+Open Data Savannah, as a brigade of Code For America, reserves the right to ask anyone in violation of these policies not to participate in Code for America network activities, events, and digital forums.
 
-####Code for America's Anti-Harassment Policy
+#### Open Data Savannah's Anti-Harassment Policy
 
 This anti-harassment policy is based on <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">the example policy</a> from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
@@ -28,17 +30,17 @@ This policy is based on several other policies, including the Ohio LinuxFest ant
 
 * * * 
 
-All Code for America network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
+All Open Data Savannah network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
 
-In addition to governing our own events by this policy, Code for America will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://docs.google.com/a/codeforamerica.org/document/d/1Zg2FDt7awgfCmdcbzMwKHMb1A7KDOhs_z7ibCb3TLLQ/edit">see this guide</a>.
+In addition to governing our own events by this policy, Code for America will only lend their brand and funding to Open Data Savannah and groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://docs.google.com/a/codeforamerica.org/document/d/1Zg2FDt7awgfCmdcbzMwKHMb1A7KDOhs_z7ibCb3TLLQ/edit">see this guide</a>.
 
-Code for America is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code for America event or network activity, including talks. Anyone in violation of these policies may expelled from Code for America network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
+Code for America (and, by extension, Open Data Savannah) is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code for America event or network activity, including talks. Anyone in violation of these policies may expelled from Code for America network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
 
 Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; and patronizing language or action.
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for America network activities, events, and digital forums. 
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can contact them at [EVENT ORGANIZER/FORUM ADMINISTRATOR EMAIL AND PHONE NUMBER]. Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can contact them at carl@carlvlewis.net or call (912) 816-7007. Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation. 
 
@@ -46,7 +48,7 @@ You can also contact Code for America about harassment at safespace@codeforameri
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
-####Email Template for Anti-Harassment Reporting
+#### Email Template for Anti-Harassment Reporting
 
 SUBJECT: Safe Space alert at [EVENT NAME]
 
