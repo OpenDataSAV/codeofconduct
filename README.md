@@ -1,3 +1,4 @@
+![opendatasav](http://cvlassets.s3.amazonaws.com/23719460.png)
 # Open Data Savannah
 ## Code of Conduct
 =============
