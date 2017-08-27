@@ -1,57 +1,60 @@
-# Open Savannah
-## Code of Conduct
-=============
-#### Savannah's Bridgade of Code for America
-Forked and modified from [CFA Code of Conduct](https://github.com/codeforamerica/codeofconduct)
+# Code of Conduct
 
-The Open Savannah community expects that OpenDataSAV network activities, events, and digital forums:
+Open Savannah is an organization about working, as a group, to empower ourselves and others to improve our local community through technology. Open Savannah is committed to providing a safe and welcoming space, without regard to age, gender, race, ethnicity, nationality, sexual orientation, gender identity, gender expression, mental or physical disability, physical appearance, neuro(a)typicality, religion, level of knowledge, level of experience, parental status, marital status, socioeconomic status or background, political affiliation, or any other attribute. The Core Leadership of Open Savannah (“Core Leaders”) share the responsibility of enforcing these policies as necessary to maintain an open and welcoming environment.
+As the organizers of Open Savannah, we believe that the below principles are essential to maintaining this environment. In addition, we believe that they are good principles for life in general.
 
-1. Are a safe and respectful environment for all participants.
-2. Are a place where people are free to fully express their identities.
-3. Presume the value of others. Everyone’s ideas, skills, and contributions have value.
-4. Don’t assume everyone has the same context, and encourage questions.
-5. Find a way for people to be productive with their skills (technical and not) and energy. Use language such as “yes/and”, not “no/but.”
-6. Encourage members and participants to listen as much as they speak.
-7. Strive to build tools that are open and free technology for public use. Activities that aim to foster public use, not private gain, are prioritized.
-8. Prioritize access for and input from those who are traditionally excluded from the civic process.
-9. Work to ensure that the community is well-represented in the planning, design, and implementation of civic tech. This includes encouraging participation from women, minorities, and traditionally marginalized groups. 
-10. Actively involve community groups and those with subject matter expertise in the decision-making process.
-11. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
-12. Provide an environment where people are free from discrimination or harassment.
+## Applicability
 
-Open Savannah, as a brigade of Code For America, reserves the right to ask anyone in violation of these policies not to participate in Code for America network activities, events, and digital forums.
+This code of conduct serves to ensure that everybody and anybody who wishes to participate is able to do so, and applies to all Open Savannah events, from hackathons to happy hours. Further, it applies to online activities related to Open Savannah, including postings on GitHub, Slack, and Google Groups.
 
-#### Open Savannah's Anti-Harassment Policy
+## Principles
 
-This anti-harassment policy is based on <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">the example policy</a> from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
+### Do Not Harass
 
-This policy is based on several other policies, including the Ohio LinuxFest anti-harassment policy, written by Esther Filderman and Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism and other groups contributed to this work.
+Harassment is any unwelcome or hostile behavior towards another person for any reason. This includes, but is not limited to, offensive verbal comments related to personal characteristics or choices, sexual images or comments, deliberate intimidation, bullying, stalking, following, harassing photography or recording, sustained disruption of discussion or events, nonconsensual publication of private comments, inappropriate physical contact, or unwelcome sexual attention. Conduct need not be intentional to be harassment.
+Open Savannah will not tolerate such behavior.
 
-* * * 
+### Respect the Opinions and Abilities of Others
 
-All Open Savannah network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
+Open Savannah is designed as a place for people all of different skill levels and approaches to meet and work together toward common goals. As a result, we do not expect that everybody will share the same opinion. However, we do expect that disagreement is done respectfully.
+Additionally, we expect that members will educate others respectfully. To this end, do not assume anybody else’s level of expertise or knowledge. Do not belittle a lack of information, or insist on unnecessary precision. We are all learning, so afford others—as well as yourself—room to grow.
 
-In addition to governing our own events by this policy, Code for America will only lend their brand and funding to Open  Savannah and groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://docs.google.com/a/codeforamerica.org/document/d/1Zg2FDt7awgfCmdcbzMwKHMb1A7KDOhs_z7ibCb3TLLQ/edit">see this guide</a>.
+### Keep Your Team Open
 
-Code for America (and, by extension, Open  Savannah) is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code for America event or network activity, including talks. Anyone in violation of these policies may expelled from Code for America network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
+Except for instances where it would significantly impede productivity, there is always room on an Open Savannah project for one more person. Unless doing so would be counter-productive to the goals of the project, anybody who is interested in a project is allowed to join it.
 
-Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; and patronizing language or action.
+## Aspirations
 
-If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for America network activities, events, and digital forums. 
+While this document exists primarily to prevent certain bad behavior, we also believe that our community members should work towards a higher standard. To that end, we strongly encourage the following conduct, though they are considered aspirational rather than necessary.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can contact them at carl@carlvlewis.net or call (912) 816-7007. Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+### Build With, Not For
 
-If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation. 
+Work to ensure that the community is well-represented in all stages of development. Seek out those who are under-represented, and remove barriers to access. Listen as much—or more—than you speak, and give full consideration to all ideas, even if they seem improbable at first.
 
-You can also contact Code for America about harassment at safespace@codeforamerica.org and feel free to use the email template below. Code for America staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
+### Empower, Experiment, and Find a Way for Everybody to Contribute
 
-We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
+When more people share their knowledge and skills, they give a project a greater chance to succeed. When somebody shows up with an unusual skill, look for ways to fit them into the team rather than reasons why it wouldn’t work. Experiment with new approaches, and don’t be afraid to try something that might not work.
 
-#### Email Template for Anti-Harassment Reporting
+## Procedures
 
-SUBJECT: Safe Space alert at [EVENT NAME]
+### Making a Report
 
-I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT). 
+If you are unable to resolve the issue, or are uncomfortable doing so, you should contact a Captain, either in person or electronically. Captains agree to keep information shared in association with a Code of Conduct violation private, and may reveal it only with the approval of the affected person(s). Contact information for each Captain is listed on the [About page](https://opensavannah.org/about.html), and you can also send an anonymous (or non-anonymous) message through the [Contact page](https://opensavannah.org/contact.html), in which case it will be seen by all Captains. Please be aware that electronic reports may not be seen immediately.
+When making a report, the following information is useful, but not required:
 
-You can reach me at (CONTACT INFO). Thank you.
+* Who violated the Code of Conduct?
+* Where and when did the violation occurred?
+* What happened?
+* Who may have witnessed the violation?
+* Who are you?
+
+### Outcomes
+
+Core Leaders agree to treat all violations impartially, and will strive to apply this code of conduct consistently. In situations where this may not be possible due to personal or business relationships, Captains shall refer the violation report to another appropriate decision-maker with the approval of the affected person(s).
+
+Core Leaders may take any appropriate action, including expulsion and a ban from future events, to resolve a violation of this code of conduct. In the event of gray areas, precedence will be given to the target of the conduct.
+
+## Contributing to This Code
+
+This is a living document and is ultimately owned by the Open Savannah community. We are interested in your comments and suggestions! You can contribute to the code by opening an issue or pull request on this repository, by using the edit link above (which will create an anonymous pull request on your behalf), or by contacting a Core Leader.
 
